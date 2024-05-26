@@ -1,3 +1,4 @@
+https://facebook.github.io/prophet/docs/installation.html
 In 2017, Facebook made its time-series forecasting tool, Prophet, open-source. This tool has the ability to produce accurate forecasts similar to those made by skilled analysts, but with minimal human effort. The Facebook Prophet is available in the form of an API in both Python and R.
 
 Prophet works by using Additive Regressive models, which consist of four components:
